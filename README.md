@@ -1,4 +1,5 @@
 <!-- ⋆｡‧˚ʚ🎀ɞ˚‧｡⋆  missshekhar's profile readme  ⋆｡‧˚ʚ🎀ɞ˚‧｡⋆ -->
+<!-- ✧ Dhriti Shekhar · she/her · builder of cute + clever things ✧ -->
 
 <div align="center">
 
