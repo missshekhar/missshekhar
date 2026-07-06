@@ -1,21 +1,21 @@
-<!-- ⋆｡‧˚ʚ🎀ɞ˚‧｡⋆  missshekhar's profile readme  ⋆｡‧˚ʚ🎀ɞ˚‧｡⋆ -->
-<!-- ✧ Dhriti Shekhar · she/her · builder of cute + clever things ✧ -->
+<!-- ⋆｡‧˚ʚ🎀ɞ˚‧｡⋆  Dhriti Shekhar · missshekhar · she/her  ⋆｡‧˚ʚ🎀ɞ˚‧｡⋆ -->
 
 <div align="center">
 
 <!-- ✧ waving pink banner ✧ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=hi%20i'm%20shekhar%20🎀&fontSize=48&fontColor=fff0f6&fontAlignY=38&desc=welcome%20to%20my%20little%20corner%20of%20the%20internet%20♡&descSize=18&descAlignY=60&animation=twinkling" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=hi%20i'm%20dhriti%20🎀&fontSize=48&fontColor=fff0f6&fontAlignY=38&desc=retired%20software%20developer%20•%20moody%20problem%20solver%20•%20maker%20of%20cute%20games%20♡&descSize=15&descAlignY=60&animation=twinkling" alt="header" />
 
 <!-- ✧ animated typing banner ✧ -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=24&pause=1000&color=FF4FA3&center=true&vCenter=true&width=600&height=60&lines=coding+in+pink+%F0%9F%8E%80;professional+girl+who+builds+things+%E2%9C%A8;powered+by+coffee+%26+chaos+%E2%98%95;may+contain+traces+of+glitter+%F0%9F%92%96;now+loading...+please+wait+%F0%9F%95%B9%EF%B8%8F" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=24&pause=1000&color=FF4FA3&center=true&vCenter=true&width=650&height=60&lines=retired+software+developer+%F0%9F%92%85;certified+moody+problem+solver+%E2%9C%A8;i+make+cute+little+games+%F0%9F%8E%AE;C%2B%2B+and+Python+are+my+frenemies+%F0%9F%98%92;currently+located+in%3A+Asgard+%F0%9F%8C%8C" alt="typing banner" />
 </a>
 
 <br/>
 
 <!-- ✧ visitor counter + sparkle badges ✧ -->
 <img src="https://komarev.com/ghpvc/?username=missshekhar&label=cuties%20who%20visited&color=ff69b4&style=for-the-badge" alt="visitors" />
-<img src="https://img.shields.io/badge/made%20with-love%20%26%20sparkles-ff69b4?style=for-the-badge" alt="made with love" />
+<img src="https://img.shields.io/badge/vibe-moody%20but%20make%20it%20cute-ff69b4?style=for-the-badge" alt="vibe" />
+<img src="https://img.shields.io/badge/📍-Asgard%20🌌-ff8fcf?style=for-the-badge" alt="location" />
 
 </div>
 
@@ -28,41 +28,61 @@
 <img align="right" width="280" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="cute anime gif" />
 
 ```yaml
-name: shekhar ♡          # ⟵ edit me!
-role: builder of cute + clever things
-currently: turning coffee into code
-learning: something new every week 📚
+name: Dhriti Shekhar ♡
+aka: missshekhar
+title: retired software developer (emotionally)
 pronouns: she/her
-lives_in: 🌸 your-city-here
-fun_fact: i debug better with music on 🎧
+location: 🌌 Asgard
+role: moody problem solver + maker of cute games
+loves: turning silly ideas into playable things 🎮
+frenemies: [ C++, Python ]   # we don't talk 😒
+mood: it depends, don't ask 💅
 ```
 
-- 🌷 i love making things that feel **soft, smart, and a little bit magical**
-- 🕹️ part builder, part gamer, full-time daydreamer
-- 💌 currently vibing on projects like my **F1 companion app**
-- ⭐ ask me about: whatever you're passionate about!
-- 🎯 goal for this year: *(edit me — big dreams go here)*
+- 🕹️ i build **little games** for fun — dino runners, tetris, snakes, the works
+- 🎀 if it's cute, clever, and a bit chaotic, it's probably mine
+- 😒 i say i "don't like C++ & Python" but here we are... complicated relationship
+- 💌 currently tinkering on new projects when the mood strikes
+- ⭐ ask me about: game ideas, why i'm *technically* retired, or my latest hyperfixation
 
 <br clear="right"/>
 
 <!-- ୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧ -->
 
-## 🧸 ˚ ༘ my little toolkit ⋆｡˚
+## 🕹️ ˚ ༘ my little arcade ⋆｡˚
+
+<div align="center">
+
+<sub>a few things i made (yes, i made games about a dinosaur and a snake, and i'd do it again)</sub>
+
+<br/>
+<br/>
+
+<a href="https://github.com/missshekhar/playDINO"><img src="https://img.shields.io/badge/🦖%20playDINO-chrome%20dino%20game-ff69b4?style=for-the-badge" alt="playDINO" /></a>
+<a href="https://github.com/missshekhar/CsharpTetris"><img src="https://img.shields.io/badge/🧱%20CsharpTetris-blocks%20go%20brr-ff4fa3?style=for-the-badge" alt="CsharpTetris" /></a>
+<a href="https://github.com/missshekhar/simplesnake"><img src="https://img.shields.io/badge/🐍%20simplesnake-nom%20nom%20nom-ff8fcf?style=for-the-badge" alt="simplesnake" /></a>
+<br/>
+<a href="https://github.com/missshekhar/cat-cat"><img src="https://img.shields.io/badge/🐱%20cat--cat-cat%20image%20generator-ffb3d1?style=for-the-badge" alt="cat-cat" /></a>
+<a href="https://github.com/missshekhar/TRU-TEE"><img src="https://img.shields.io/badge/🤝%20TRU--TEE-a%20game%20about%20trust-d81b60?style=for-the-badge" alt="TRU-TEE" /></a>
+<a href="https://github.com/missshekhar/Portfolio"><img src="https://img.shields.io/badge/💼%20Portfolio-the%20serious%20one-ff69b4?style=for-the-badge" alt="Portfolio" /></a>
+
+</div>
+
+<!-- ୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧ -->
+
+## 🧸 ˚ ༘ my toolkit (frenemies included) ⋆｡˚
 
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-ffb3d1?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-ff8fcf?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-ff4fa3?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-ffb3d1?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-d81b60?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-ff8fcf?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-ff4fa3?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20(frenemy)-d81b60?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++%20(frenemy)-ff8fcf?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-ff4fa3?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-ffb3d1?style=for-the-badge&logo=figma&logoColor=white)
 
-<sub>💡 swap these for the tools you actually love — they're all just badges!</sub>
+<sub>💡 tell me which tools you *actually* love and i'll re-sort the frenemies list ♡</sub>
 
 </div>
 
@@ -83,7 +103,7 @@ fun_fact: i debug better with music on 🎧
 
 <!-- ୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧ -->
 
-## 🕹️ ˚ ༘ now playing + wisdom drop ⋆｡˚
+## 🎧 ˚ ༘ now playing + wisdom drop ⋆｡˚
 
 <div align="center">
 
@@ -93,13 +113,8 @@ fun_fact: i debug better with music on 🎧
 <br/>
 <br/>
 
-<!-- ✧ Spotify now-playing (optional — see setup note below) ✧ -->
-<!--
-  🎧 want a LIVE "now playing on spotify" widget?
-  it needs a tiny one-time setup (a free vercel deploy).
-  ping me and i'll walk you through it — for now here's a cute placeholder:
--->
-<img src="https://img.shields.io/badge/🎧%20now%20playing-your%20favorite%20song%20♪-ff69b4?style=for-the-badge" alt="now playing" />
+<!-- ✧ Spotify now-playing placeholder — ask me to wire up the LIVE version! ✧ -->
+<img src="https://img.shields.io/badge/🎧%20now%20playing-whatever%20matches%20the%20mood%20♪-ff69b4?style=for-the-badge" alt="now playing" />
 
 </div>
 
@@ -122,7 +137,7 @@ fun_fact: i debug better with music on 🎧
   <img src="https://img.shields.io/badge/Email-ffb3d1?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
 
-<sub>🔗 replace the <code>#</code> links with your real socials whenever you're ready ♡</sub>
+<sub>🔗 send me your LinkedIn/Instagram handles and i'll make these buttons actually go somewhere ♡</sub>
 
 </div>
 
@@ -132,6 +147,6 @@ fun_fact: i debug better with music on 🎧
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=thanks%20for%20visiting!%20%F0%9F%92%96&fontSize=22&fontColor=fff0f6&fontAlignY=70&animation=twinkling" alt="footer" />
 
-**⋆｡‧˚ʚ made with love, coffee, and a little bit of glitter ɞ˚‧｡⋆**
+**⋆｡‧˚ʚ made with love, mild chaos, and a little bit of glitter ɞ˚‧｡⋆**
 
 </div>
